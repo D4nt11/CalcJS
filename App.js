@@ -76,7 +76,6 @@ function calculateWithAction(input1, input2, actionSymbol) {
   // else {
   //     return num1 / num2
   // }
-  }
 
   return actionSymbol === "+"
     ? num1 + num2
