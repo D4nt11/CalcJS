@@ -76,8 +76,6 @@ function calculateWithAction(input1, input2, actionSymbol) {
   // else {
   //     return num1 / num2
   // }
-  if (num1 === 2 && num2 === 2){
-    return "Ti pidor"
   }
 
   return actionSymbol === "+"
